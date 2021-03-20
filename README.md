@@ -8,3 +8,17 @@ SmartX提供插件SDK，可开发私有插件、或使用内置插件市场提�
 
 SmartX内置了众多算法交易模块，涵盖T0、TWAP、VWAP、IS、POV、ICEBERG、SNIPER、DMA、PERCENT、SMART等算法，还有机器学习增强的AI算法。
 支持对持仓进行T0日内交易，不断高抛低吸降低持仓成本，增强收益；支持多种拆单算法进行建仓/减仓，隐藏交易意图，降低冲击成本，减少人力成本、提高执行效率。
+
+## 下载地址
+
+可以在本项目的[Release](https://github.com/ztsec/smart_client/releases)页面下载[最新版本](https://github.com/ztsec/smart_client/releases/latest)的客户端程序与文档。
+
+如果下载缓慢，也可以在[XTP官网](https://xtp.zts.com.cn/)进行下载。
+
+## 联系我们
+
+如果您对我们的客户端有任何问题与想法，欢迎联系我们。
+
+Issue：[提问题](https://github.com/ztsec/smart_client/issues)
+
+QQ 交流群： 659577632
